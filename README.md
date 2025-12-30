@@ -41,11 +41,9 @@ You can also download Train/Test datasets seperated by Pranet
 **Checkpoints**
 - DFormerv2_Small_pretrained.pth: [here](https://huggingface.co/bbynku/DFormerv2/tree/main/DFormerv2/pretrained).
 - depth_anything_v2_vits.pth: [download](https://huggingface.co/depth-anything/Depth-Anything-V2-Small/resolve/main/depth_anything_v2_vits.pth?download=true).
-<details>
-<summary>Orgnize the checkpoints and dataset folder in the following structure:</summary>
-<pre><code>
 
-```shell
+**Orgnize the checkpoints and dataset folder in the following structure:**
+```bash
 <RoSeg>
 |-- <backbone>
     |-- <pretrained>
@@ -59,8 +57,6 @@ You can also download Train/Test datasets seperated by Pranet
 |-- ...
 ```
 
-</code></pre>
-</details>
 
 **Train/Test**
 - To train and test the model, please run `train.ipynb`.
