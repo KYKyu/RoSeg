@@ -58,5 +58,5 @@ You can also download Train/Test datasets seperated by Pranet
 ```
 
 
-**Train/Test**
+**2. Train/Test.**
 - To train and test the model, please run `train.ipynb`.
