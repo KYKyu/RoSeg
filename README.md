@@ -39,8 +39,8 @@ You can also download Train/Test datasets seperated by Pranet
 - [Google Drive Link (399.5MB)](https://drive.google.com/file/d/1YiGHLw4iTvKdvbT6MgwO9zcCv8zJ_Bnb/view?usp=sharing). It contains two sub-datasets: Kvasir-SEG (900 train samples) and CVC-ClinicDB (550 train samples).
 
 **Checkpoints**
-- [DFormerv2_Small_pretrained.pth](https://huggingface.co/bbynku/DFormerv2/tree/main/DFormerv2/pretrained)
-- [depth_anything_v2_vits.pth](https://huggingface.co/depth-anything/Depth-Anything-V2-Small/resolve/main/depth_anything_v2_vits.pth?download=true)
+- DFormerv2_Small_pretrained.pth: [Download](https://huggingface.co/bbynku/DFormerv2/tree/main/DFormerv2/pretrained)
+- depth_anything_v2_vits.pth: [Download](https://huggingface.co/depth-anything/Depth-Anything-V2-Small/resolve/main/depth_anything_v2_vits.pth?download=true)
 <details>
 <summary>Orgnize the checkpoints and dataset folder in the following structure:</summary>
 <pre><code>
