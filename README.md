@@ -38,7 +38,7 @@ You can also download Train/Test datasets seperated by Pranet
 - [Google Drive Link (327.2MB)](https://drive.google.com/file/d/1Y2z7FD5p5y31vkZwQQomXFRB0HutHyao/view?usp=sharing). It contains five sub-datsets: CVC-300 (60 test samples), CVC-ClinicDB (62 test samples), CVC-ColonDB (380 test samples), ETIS-LaribPolypDB (196 test samples), Kvasir (100 test samples).
 - [Google Drive Link (399.5MB)](https://drive.google.com/file/d/1YiGHLw4iTvKdvbT6MgwO9zcCv8zJ_Bnb/view?usp=sharing). It contains two sub-datasets: Kvasir-SEG (900 train samples) and CVC-ClinicDB (550 train samples).
 
-  **Checkpoints**
+**Checkpoints**
 - [DFormerv2_Small_pretrained.pth](https://huggingface.co/bbynku/DFormerv2/tree/main/DFormerv2/pretrained) | RoSeg/backbone/pretrained
 - [depth_anything_v2_vits]([https://huggingface.co/bbynku/DFormerv2/tree/main/DFormerv2/pretrained](https://huggingface.co/depth-anything/Depth-Anything-V2-Small/resolve/main/depth_anything_v2_vits.pth?download=true)) | RoSeg\DepthAnythingV2\checkpoints
 
