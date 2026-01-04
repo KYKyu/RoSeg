@@ -10,7 +10,7 @@ Precise polyp segmentation in colonoscopy images is critical for early diagnosis
 **0. Install**
 
 ```bash
-conda create -n RoSeg python=3.10 -y
+conda create -n RoSeg python=3.10
 conda activate RoSeg
 
 # CUDA 11.8
